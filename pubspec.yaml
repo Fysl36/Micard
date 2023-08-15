@@ -42,3 +42,12 @@ flutter:
     - family: TiroBangla
       fonts:
         - asset: fonts/TiroBangla-Italic.ttf
+
+    - family: Roboto-Black
+      fonts:
+        - asset: fonts/Roboto-Black.ttf
+
+
+    - family: TiltPrism-Regular-VariableFont_XROT,YROT
+      fonts:
+        - asset: fonts/TiltPrism-Regular-VariableFont_XROT,YROT.ttf
